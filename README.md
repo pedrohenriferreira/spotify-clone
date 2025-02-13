@@ -2,38 +2,37 @@
 
 ![Capa do Projeto](capa.jpg)
 
-## Índice
+## Table of Contents
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Sobre o Projeto
+## About the Project
 
-O **Spotify Clone** é uma aplicação web que replica a interface e funcionalidades básicas do Spotify, permitindo que os usuários explorem músicas, criem playlists e desfrutem de uma experiência musical personalizada.
+**Spotify Clone** is a web application that replicates the interface and basic features of Spotify, allowing users to explore music, create playlists, and enjoy a personalized music experience.
 
-## Funcionalidades
+## Features
 
-- Reprodução de músicas
-- Pesquisa por artistas, álbuns e faixas
-- Criação e gerenciamento de playlists
-- Interface responsiva e intuitiva
+- Music playback
+- Search for artists, albums, and tracks
+- Create and manage playlists
+- Responsive and intuitive interface
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
-## Instalação
+## Installation
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/pedrohenriferreira/spotify-clone.git
-```
