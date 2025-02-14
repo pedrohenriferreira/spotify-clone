@@ -9,9 +9,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 
